@@ -1,3 +1,7 @@
+# About Me
+
+My name is Nathan More. I am an aspiring software developer. I am currently studying Computer Science at Crafton Hills Community College and will be graduating with an associate's degree at the end of Spring 2021. I plan to transfer into the University of Calirofnia school system and continue my studies. I am familiar with the C++ programming language. I have also begun to develop skills using the Godot engine and its scripting language GDScript, which is similar to Python. My primary goal is to bring my imagination to life by making video games. I am also interested in developing applications that make everday tasks more efficient. I am a quick learner and I look forward to exploring new programming languages and working on more projects.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nathanmore/nathanmore.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
