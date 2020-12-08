@@ -8,7 +8,7 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
   <img src="/assets/img/project-2.jpg" width="300" /> 
 </p>
 
-![LinkedIn](assets/img/linkedin.png)
+![LinkedIn](assets/img/linkedin.png "Linked-In")
 
 ![alt-text-1](/assets/img/project-1.jpg "title-1") ![alt-text-2](/assets/img/project-2.jpg "title-2")
 
