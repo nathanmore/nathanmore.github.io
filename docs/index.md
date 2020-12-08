@@ -5,7 +5,7 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 
 <img src="/assets/img/project-1.jpg" width="100"/> <img src="/assets/img/project-2.jpg" width="100"/> 
 
-![Linked-In](/assets/img/linkedin.png)
+![Linked-In](https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/linkedin.png)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
