@@ -1,2 +1,2 @@
-# nathanmore.github.io
-A website to host my programming portfolio.
+# Nathan More
+Software Developer
