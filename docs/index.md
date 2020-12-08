@@ -4,8 +4,8 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 
 
 <p float="left">
-  <img src="/assets/img/project-1.jpg" width="100" />
-  <img src="/assets/img/project-2.jpg" width="100" /> 
+  <img src="/assets/img/project-1.jpg" width="300" />
+  <img src="/assets/img/project-2.jpg" width="300" /> 
 </p>
 
 
