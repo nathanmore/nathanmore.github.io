@@ -7,6 +7,8 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 
 ![Linked-In](/assets/img/linkedin.png)
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 
 ## Welcome to GitHub Pages
 
