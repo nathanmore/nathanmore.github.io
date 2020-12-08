@@ -8,7 +8,7 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
   <img src="/assets/img/project-2.jpg" width="300" /> 
 </p>
 
-![Image of Yaktocat](/assets/img/linkedin.png)
+![LinkedIn](/assets/img/linkedin.png)
 
 
 ## Welcome to GitHub Pages
