@@ -4,11 +4,13 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 
 
 <p float="left">
-  <img src="https://github.com/nathanmore/nathanmore.github.io/tree/main/assets/img/project-1.jpg" width="300" />
+  <img src="/assets/img/project-1.jpg" width="300" />
   <img src="/assets/img/project-2.jpg" width="300" /> 
 </p>
 
-![LinkedIn](https://github.com/nathanmore/nathanmore.github.io/tree/main/assets/img/linkedin.png)
+![LinkedIn](assets/img/linkedin.png)
+
+![alt-text-1](/assets/img/project-1.jpg "title-1") ![alt-text-2](/assets/img/project-2.jpg "title-2")
 
 
 ## Welcome to GitHub Pages
