@@ -12,6 +12,8 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 
 ![alt-text-1](/assets/img/project-1.jpg "title-1") ![alt-text-2](/assets/img/project-2.jpg "title-2")
 
+<img src="/assets/img/project-1.jpg" width="100"/> <img src="/assets/img/project-2.jpg" width="100"/> 
+
 
 ## Welcome to GitHub Pages
 
