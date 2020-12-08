@@ -6,12 +6,12 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <br/>
 
 ## Project 1
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="350"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="350"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="300"/> 
 
 <br/>
 
 ## Project 2
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="350"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="350"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="300"/> 
 
 <br/>
 
