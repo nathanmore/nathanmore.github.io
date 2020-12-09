@@ -16,7 +16,8 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <br/>
 
 ## Bubble Sort LC-3 Program
-<img scr="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortmain.jpg" width="500"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortsimulated.jpg" width="200"/>
+![Bubble Sort](https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortmain.jpg)
+![LC-3 Sim](https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortsimulated.jpg)
 
 ### Summary
 The Bubble Sort Program examines a list of single-digit numbers stored at memory location x4000, printing them in the process. It then reorders them in the memory into ascending order. Finally, it prints the list again with its new order. 
