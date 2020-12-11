@@ -19,8 +19,23 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 ![Bubble Sort](https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortmain.jpg)
 ![LC-3 Sim](https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/bubblesortsimulated.jpg)
 
-### Summary
-The Bubble Sort Program examines a list of single-digit numbers stored at memory location x4000, printing them in the process. It then reorders them in the memory into ascending order. Finally, it prints the list again with its new order. 
+### Purpose (At least 3 sentences)
+This program was created for a project in an assembly language programming course that I was enrolled in. This program was used to test my understanding of fundamental computer science principles, such as algorithms and list sorting. Additionally, this program tested my accumulated understanding of assembly language coding. It relies on many important concepts, including memory management, subroutines, data types, and type conversions. 
+
+### Functionality (At least 5 sentences)
+This program examines a list of single-digit integer values held at a specific memory location. The integers use 2's compliment method of determining positive and negative values. The program prints the list as it was inputted into the memory. It then performs a bubble sort algorithm to order the digits into ascending order. The program uses subroutines for various functions such as outputting the list and converting each integer value into a string of ASCII characters that is then displayed to the screen. The bubble sort algorithm involves passing through the list as many times as there are number values minus one. Each time, the program looks at the values two at a time, comparing the values and swapping their memory locations if necessary. Finally, the program outputs the now sorted list and halts the processor.
+
+Lines of code: 93
+
+### Technical Skills
+* Fundamental computer science principles
+* Assembly language programming
+* Understanding of memory management
+* Data encapsulation
+
+### My Role and Experience
+I came up with the implementation of this program mostly independtly, but I had some help from classmates. I did the programming by myself.
+This project helped me practice coming up with my own implementations of specific functionality within an assembly language, which is very different that high-level language programming. It also cemented my understanding of memory preservation and subroutines in the assembly language.
 
 <br/>
 
