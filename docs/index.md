@@ -39,7 +39,12 @@ This project helped me practice coming up with my own implementations of specifi
 
 <br/>
 
-# Website Support/Help
+# Contact
+If you want to get into contact with me the best way is to connect with me on ![Linked-In](https://www.linkedin.com/in/nathan-more-9456721a8/).
+
+<br/>
+
+# Website Support/Help (Temporary Section)
 
 ```markdown
 Syntax highlighted code block
