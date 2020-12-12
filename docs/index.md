@@ -6,7 +6,7 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <br/>
 
 ## Project 1
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="300"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="325"/> 
 
 <br/>
 
@@ -15,18 +15,23 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame3.png" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame4.png" width="325"/> 
 
 ### Purpose
-?
+This program is a video game that I programmed in my Intro to Computer Science and C++ class. The program was meant to test our ability to utilize the programming techniques tought in the class. In its development I utilized object-oriented principles and it was designed using the Universal Modeling Language (UML). This game acted as practice in the implementation of standard libraries.
 
 ### Functionality
-?
+This program utilizes the Simple and Fast Multimedia Library (SFML) to render graphics. The game runs using standard SFML classes, as well as four custom made classes that are subclasses of several SFML ones. The user controls the main player, Alice, using the arrow keys. There is background music as well as various sound effects. The goal is for the player to traverse a maze made up of randomly spawning wall blocks and to reach the exit door with as high of a score as possible. Scoring is based on what the player encounters. There are several traps that spawn randomly that decrese the player's score by a certain amount determined by the severity of the trap and the amount of time the player has been in the maze. Traps include guards, toxic vials, and fallen trees. There are also prizes that rewqrd the player points based on their type and time in game. Prizes include food, health potions, and stamina potions. Once the player reaches the exit door, gameplay is stopped.
 
-Lines of code: ?
+Lines of code: ~700
 
 ### Technical Skills
-* ?
+* Object-oriented programming
+* Coding with C++
+* Utilization of SFML
+* UML Class Design
+* Data encapulation
+* Proper documentation
 
 ### My Role and Experience
-?
+I am the code designer and programmer of this specific implementation of the prompt for this project. The basic settup of the rendering window, the setup of the classes, and the resources were provided by my professor, but the majority of the code is my own. This project gave me great practice in developing applications in C++ as well as in using large code libraries, specifically SFML. The skills I learned from this project enabled me to expand my creativity in other projects using SFML.
 
 <br/>
 
