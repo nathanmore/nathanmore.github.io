@@ -11,8 +11,8 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <br/>
 
 ## Adventure Maze Game
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame1.png" width="350"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame2.png" width="350"/> 
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame3.png" width="350"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame4.png" width="350"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame1.png" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame2.png" width="325"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame3.png" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame4.png" width="325"/> 
 
 ### Purpose
 ?
