@@ -11,7 +11,9 @@ My name is Nathan More. I am an aspiring software developer. I am currently stud
 <br/>
 
 ## Project 2
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="300"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame1.png" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame2.png" width="300"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame3.png" width="300"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/adventuregame4.png" width="300"/> 
+
 
 <br/>
 
