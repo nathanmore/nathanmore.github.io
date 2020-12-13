@@ -3,10 +3,32 @@
 My name is Nathan More. I am an aspiring software developer. I am currently studying Computer Science at Crafton Hills Community College and will be graduating with an associate's degree at the end of Spring 2021. I plan to transfer into the University of Calirofnia school system and continue my studies. I am familiar with the C++ programming language. I have also begun to develop skills using the Godot engine and its scripting language GDScript, which is similar to Python. My primary goal is to bring my imagination to life by making video games. I am also interested in developing applications that make everday tasks more efficient. I am a quick learner and I look forward to exploring new programming languages and working on more projects.
 
 # Projects
+
 <br/>
 
-## Project 1
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-1.jpg" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/assets/img/project-2.jpg" width="325"/> 
+## Recycling Video Game
+
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame1.jpg" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame2.jpg" width="325"/> 
+
+### Purpose
+The purpose of this game is to help promote and teach about the seventeen sustainabile development goals that were set by the United Nations on September 25th. 2015. The SDG's are a set of global goals to end poverty, protect the planet, and ensure prosperity for all as part of a new sustainable development agenda. This game specifically focuses on the goals for responsible fconsumption and climate action. 
+
+### Functionality
+This game consists of a trash bin and a recycling bin that are controlled by one player or each controlled by different players on the same keyboard, depending on the user's preference. The player(s) use the WASD keys for the trash can and the arrow keys for the recycling bin to move within the street in front of a house. Objects begin falling from the top of the window. These objects consists primarily of pieces of trash and pieces of recycling. It is up to the player(s) to determine which bin each item belongs in. When the player(s) catches items in the right bins, they are rewarded points. When they get the wrong items or the items fall to the street, they are deducted points. Additionally, there are occasionally a douple points powerup that the player(s) can grab to get extra points for a short time and their are bomb obstacles that end the game when collided with. The game features a raming difficulty, so the game becomes more challenging as you play it.
+
+Lines of code: ~550
+
+### Technical Skills
+* Object-Oriented Programming
+* Creative design
+* Technical design
+* C++ Language
+* Use of SFML library
+* Visual Studio Programming
+* Teamwork
+
+### My Role and Experience
+This game was designed and programmed by myself and its co-developer, Jake Fuller. I came up with the initial idea and together we refined and enhanced the game design. We also cooperated on all of the programming. Most of the artwork for the game was sourced online with a fully open-source distribution. The game background is called "<a href="https://www.vecteezy.com/free-vector/house">House Vectors by Vecteezy</a>", and can be accessed through the link. This video game is the first complete project that I have worked on coperatively in a team and it has provided me with valuable experience for future projects.
 
 <br/>
 
@@ -29,6 +51,7 @@ Lines of code: ~700
 * UML Class Design
 * Data encapulation
 * Proper documentation
+* Visual Studio Programming
 
 ### My Role and Experience
 I am the code designer and programmer of this specific implementation of the prompt for this project. The basic settup of the rendering window, the setup of the classes, and the resources were provided by my professor, but the majority of the code is my own. This project gave me great practice in developing applications in C++ as well as in using large code libraries, specifically SFML. The skills I learned from this project enabled me to expand my creativity in other projects using SFML.
