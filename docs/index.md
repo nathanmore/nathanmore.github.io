@@ -27,7 +27,7 @@ Lines of code: ~550
 * Visual Studio Programming
 * Teamwork
 
-### My Role and Experience
+### Developmental Role and Experience
 This game was designed and programmed by myself and its co-developer, Jake Fuller. I came up with the initial idea and together we refined and enhanced the game design. We also cooperated on all of the programming. Most of the artwork for the game was sourced online with a fully open-source distribution. The game background is called "<a href="https://www.vecteezy.com/free-vector/house">House Vectors by Vecteezy</a>", and can be accessed through the link. This video game is the first complete project that I have worked on coperatively in a team and it has provided me with valuable experience for future projects.
 
 <br/>
@@ -53,7 +53,7 @@ Lines of code: ~700
 * Proper documentation
 * Visual Studio Programming
 
-### My Role and Experience
+### Developmental Role and Experience
 I am the code designer and programmer of this specific implementation of the prompt for this project. The basic settup of the rendering window, the setup of the classes, and the resources were provided by my professor, but the majority of the code is my own. This project gave me great practice in developing applications in C++ as well as in using large code libraries, specifically SFML. The skills I learned from this project enabled me to expand my creativity in other projects using SFML.
 
 <br/>
@@ -76,7 +76,7 @@ Lines of code: 93
 * Understanding of memory management
 * Data encapsulation
 
-### My Role and Experience
+### Developmental Role and Experience
 I came up with the implementation of this program mostly independtly, but I had some help from classmates. I did the programming by myself.
 This project helped me practice coming up with my own implementations of specific functionality within an assembly language, which is very different that high-level language programming. It also cemented my understanding of memory preservation and subroutines in the assembly language.
 
