@@ -9,7 +9,7 @@ In this section I will list the main projects I have worked on, focusing on thei
 
 ## Recycling Video Game
 
-<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame1.jpg" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame2.jpg" width="325"/> 
+<img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame3.jpg" width="325"/> <img src="https://raw.githubusercontent.com/nathanmore/nathanmore.github.io/main/images/recyclegame4.jpg" width="325"/> 
 
 ### Purpose
 The purpose of this game is to help promote and teach about the seventeen sustainabile development goals that were set by the United Nations on September 25th. 2015. The SDG's are a set of global goals to end poverty, protect the planet, and ensure prosperity for all as part of a new sustainable development agenda. This game specifically focuses on the goals for responsible fconsumption and climate action. 
