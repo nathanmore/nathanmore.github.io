@@ -17,7 +17,7 @@ The purpose of this game is to help promote and teach about the seventeen sustai
 ### Functionality
 This game consists of a trash bin and a recycling bin that are controlled by one player or each controlled by different players on the same keyboard, depending on the user's preference. The player(s) use the WASD keys for the trash can and the arrow keys for the recycling bin to move within the street in front of a house. Objects begin falling from the top of the window. These objects consists primarily of pieces of trash and pieces of recycling. It is up to the player(s) to determine which bin each item belongs in. When the player(s) catches items in the right bins, they are rewarded points. When they get the wrong items or the items fall to the street, they are deducted points. Additionally, there are occasionally a douple points powerup that the player(s) can grab to get extra points for a short time and their are bomb obstacles that end the game when collided with. In the top left corner of the window there are trackers for the number of correctly caught items, the number of incorrectly caught or missed items, and the current overall score.
 
-Lines of code: ~550
+Lines of code: 640
 
 ### Technical Skills
 * Object-Oriented Programming
@@ -43,7 +43,7 @@ This program is a video game that I programmed in my Intro to Computer Science a
 ### Functionality
 This program utilizes the Simple and Fast Multimedia Library (SFML) to render graphics. The game runs using standard SFML classes, as well as four custom made classes that are subclasses of several SFML ones. The user controls the main player, Alice, using the arrow keys. There is background music as well as various sound effects. The goal is for the player to traverse a maze made up of randomly spawning wall blocks and to reach the exit door with as high of a score as possible. Scoring is based on what the player encounters. There are several traps that spawn randomly that decrese the player's score by a certain amount determined by the severity of the trap and the amount of time the player has been in the maze. Traps include guards, toxic vials, and fallen trees. There are also prizes that rewqrd the player points based on their type and time in game. Prizes include food, health potions, and stamina potions. Once the player reaches the exit door, gameplay is stopped.
 
-Lines of code: ~700
+Lines of code: 885
 
 ### Technical Skills
 * Object-oriented programming
@@ -69,7 +69,7 @@ This program was created for a project in an assembly language programming cours
 ### Functionality
 This program examines a list of single-digit integer values held at a specific memory location. The integers use 2's compliment method of determining positive and negative values. The program prints the list as it was inputted into the memory. It then performs a bubble sort algorithm to order the digits into ascending order. The program uses subroutines for various functions such as outputting the list and converting each integer value into a string of ASCII characters that is then displayed to the screen. The bubble sort algorithm involves passing through the list as many times as there are number values minus one. Each time, the program looks at the values two at a time, comparing the values and swapping their memory locations if necessary. Finally, the program outputs the now sorted list and halts the processor.
 
-Lines of code: 93
+Lines of code: 100
 
 ### Technical Skills
 * Fundamental computer science principles
