@@ -4,9 +4,7 @@ A website to host my programming portfolio.
 ## Credits:
 
 Site Template:   
-		HTMLUP   
-		AJ   
-		aj@lkn.io | @ajlkn	   
+		AJ - aj@lkn.io | @ajlkn | HTMLUP    
 
 Demo Images:   
 		Unsplash (unsplash.com)   
