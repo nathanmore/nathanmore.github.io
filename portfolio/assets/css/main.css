@@ -3869,6 +3869,11 @@ input, select, textarea {
 				text-align: center;
 			}
 
+				#main > .posts > article > list {
+					text-align: left;
+					
+				}
+
 				#main > .posts > article > :last-child {
 					margin-bottom: 0;
 				}
