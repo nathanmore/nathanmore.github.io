@@ -74,7 +74,7 @@ input, select, textarea {
 
 /* slider stuff */
 	.swiper {
-		height:500px;
+		width: 80%
 		
 	}
 		.swiper > .swiper-slide {
@@ -83,6 +83,7 @@ input, select, textarea {
 			justify-content: center;
 			align-items: center;
 			font-size:60px;
+			
 		}
 
 /* Basic */
