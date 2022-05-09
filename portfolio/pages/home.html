@@ -5,6 +5,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	URL: https://html5up.net/massively
 -->
+
 <html>
 	<head>
 		<title>Nathan's Portfolio - Home</title>
@@ -12,6 +13,17 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/portfolio/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="/portfolio/assets/css/noscript.css" /></noscript>
+
+		<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+		<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+
+		<script src="/portfolio/assets/js/jquery.min.js"></script> 
+		<script>
+			$(function() {
+    $("#slideshow").load("/portfolio/pages/projects/slideshow.html");
+});
+		</script>
 	</head>
 	<body class="is-preload">
 
@@ -48,6 +60,13 @@
 						</ul>
 					</nav>
 
+				<script>
+					var slideWidth = window.innerWidth * 0.8;
+					var slideHeight = window.innerHeight * 0.5;
+
+					document.getElementById("slideWidth").innerHTML = slideWidth;
+				</script>
+
 				<!-- Main -->
 					<div id="main">
 
@@ -70,11 +89,56 @@
 								<hr>
 
 								<h2><a href="/portfolio/pages/projects/unterrogation.html#title_header">Unterrogation</a></h2>
+							
+								<div class="swiper">
+									<!-- Additional required wrapper -->
+									<div class="swiper-wrapper">
+									  <!-- Slides -->
+									  <div class="swiper-slide"><a href="/portfolio/pages/projects/unterrogation.html#title_header" class="image fit"><img src="/portfolio/images/unterrogation-cover-1.png" alt="" /></a></div>
+									  <div class="swiper-slide"><a href="/portfolio/pages/projects/unterrogation.html#title_header" class="image fit"><img src="/portfolio/images/unterrogation-screenshot-hall-1.png" alt="" /></a></div>
+									  <div class="swiper-slide"><a href="/portfolio/pages/projects/unterrogation.html#title_header" class="image fit"><img src="/portfolio/images/unterrogation-chat-example-1.png" alt="" /></a></div>
+									  ...
+									</div>
+									<!-- If we need pagination -->
+									<div class="swiper-pagination"></div>
+								  
+									<!-- If we need navigation buttons -->
+									<div class="swiper-button-prev"></div>
+									<div class="swiper-button-next"></div>
+								  
+									<!-- If we need scrollbar -->
+									<div class="swiper-scrollbar"></div>
+								  </div>
 
-								<iframe width=800 height=400 frameborder="no" scrolling="no" marginheight="0"   marginwidth="0" 
-src="/portfolio/pages/projects/slideshow.html"></iframe>
+								<!--
+								<div id="slideshow">
 
-								
+								</div>
+
+								<iframe width=500px height=300 frameborder="no" scrolling="no" marginheight="0"   marginwidth="0" 
+src="/portfolio/pages/projects/slideshow.html" title="Unterrogation Slideshow"></iframe> -->
+
+								<script>
+								const swiper = new Swiper('.swiper', {
+									// Optional parameters
+								  
+									// If we need pagination
+									pagination: {
+									  el: '.swiper-pagination',
+									},
+								  
+									// Navigation arrows
+									navigation: {
+									  nextEl: '.swiper-button-next',
+									  prevEl: '.swiper-button-prev',
+									},
+								  
+									// And if we need scrollbar
+									scrollbar: {
+									  el: '.swiper-scrollbar',
+									},
+								  });
+								  </script>
 								
 
 

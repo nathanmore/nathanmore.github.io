@@ -72,6 +72,19 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* slider stuff */
+	.swiper {
+		height:500px;
+		
+	}
+		.swiper > .swiper-slide {
+			background:rgb(141, 135, 135);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size:60px;
+		}
+
 /* Basic */
 
 	@-ms-viewport {
