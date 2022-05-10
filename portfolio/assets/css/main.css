@@ -3810,6 +3810,10 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			#main > .post.featured > list {
+				text-align: left;
+			}
+
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
