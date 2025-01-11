@@ -1,4 +1,6 @@
+# Nathan More
 ## About Me
+---
 My name is Nathan More and I am a game engineer currently working at Visual Concepts on some of the world's most popular sports titles. I studied game development at the University of California Irvine. In my free time I like to play video games (of course), mostly a mix of big RPGs and casual sim games. I also love hosting board game nights, watching movies in the theater, going on hikes, and reading comics.
 ### Tidbits
 - In college, I was the Design Director of the Video Game Development Club where I would host workshops on design topics.
@@ -10,15 +12,16 @@ My name is Nathan More and I am a game engineer currently working at Visual Conc
 - Also, I love Dinosaurs (I have a cartoon T-Rex tattoo on my ankle).
 
 ## Games
+---
 ### NBA2K24
-#### The world's 2nd most popular sports game.
+The world's 2nd most popular sports game.
 ![](/images/nba2k24_cover.jpg)
 - Quickly learned a proprietary C++ game engine, allowing me to take over bugs from other engineers between Alpha and launch.
 - Worked on UI across multiple game modes, including MyCareer, MyTeam, PlayNow, and MyLeague.
 - Got greatere experience with many dev tools, including Perforce, Visual Studio, Helix Swarm, Jira, and Confluence.
 
 ### The Summoner
-#### My college capstone project, a 3D fantasy action game.
+My college capstone project, a 3D fantasy action game.
 ![](/images/the_summoner_cover.png)
 - Led a team of engineers and designers to develop a large organized codebase consisting mostly of C++ files.
 - Created quick time events where the player can capture the spirits of enemies when they are low on health.		
@@ -26,7 +29,7 @@ My name is Nathan More and I am a game engineer currently working at Visual Conc
 - Created unique AI trees for both of the main enemy types encountered in the game, enabling more dynamic and realistic combat encounters.
 
 ### Death To Love
-#### A punk rock 2D co-op beat-em-up.
+A punk rock 2D co-op beat-em-up.
 ![](/images/death_to_love_title_full.jpg)
 - Led the programming team and crafted the technical design of the underlying systems and gameplay mechanics.
 - Designed and implemented the combat mechanics and locomotion, enabling battle between a screen full of enemies and up to two players.
