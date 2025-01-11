@@ -2,7 +2,7 @@
 ## About Me
 ---
 My name is Nathan More and I am a game engineer currently working at Visual Concepts on popular sports titles. I studied game development at the University of California Irvine. In my free time I like to play video games (of course), mostly a mix of big RPGs and casual sim games. I also love hosting board game nights, watching movies in the theater, going on hikes, and reading comics.
-### Tidbits
+### Fun Facts
 - In college, I was the Design Director of the Video Game Development Club where I would host workshops on design topics.
 - I specialize in C++ game development with experience in UI and Gameplay engineering.
 - I have worked with Unreal, Unity, Godot, and multiple custom AAA game engines.
