@@ -36,6 +36,5 @@ A punk rock 2D co-op beat-em-up.
 - Created systems for managing multiple players, with a character selection screen and different input methods.
 - Utilized scriptable objects, a data driven Unity feature, to allow for easy data management and quick adjustments to character stats, abilities, and movement.
 
-## Contact/Links
-- Email: contact@nathanmore.com
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/nathan-more)
